@@ -1,7 +1,7 @@
 # Sammese
 Code repository for our paper entilted "Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance"
 
-arXiv version: https://arxiv.org/abs/2311.16835.
+arXiv version: https://arxiv.org/abs/2408.15063.
 
 Thank you for your attention.
 
