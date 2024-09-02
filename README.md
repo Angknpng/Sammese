@@ -4,6 +4,9 @@ Code repository for our paper entilted "Adapting Segment Anything Model to Multi
 arXiv version: https://arxiv.org/abs/2311.16835.
 
 Thank you for your attention.
+
+***Note: Since this paper is still in peer review, the final code will be released after it is revised according to the reviewers' comments.***
+
 ## Citing our work
 
 If you think our work is helpful, please cite
